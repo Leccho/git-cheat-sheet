@@ -46,7 +46,7 @@ $ git merge [branch] // merge the specified branch in the current branch
 ```
 
 ## OTHER
-Need more? See these links:
-[Git Documentation](https://git-scm.com/doc)
-[GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-[Atlassian Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+Need more? See these links:<br>
+[Git Documentation](https://git-scm.com/doc)<br>
+[GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)<br>
+[Atlassian Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)<br>
